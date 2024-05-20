@@ -1,2 +1,2 @@
-from Classfier_for_Chickens_Disease import logger 
+from Classifier import logger
 logger.info("Starting the Chicken Disease App")
